@@ -1,1 +1,1 @@
-Beginner Python 3 programmer learning the ropes
+JS, Nodejs, HTML and Express developer in the making
